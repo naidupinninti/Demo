@@ -1,1 +1,1 @@
-echo "This is a test shel script"
+echo "This is a test shell script"
