@@ -3,7 +3,6 @@
 
 from datetime import datetime
 
-
 def greeting_for_hour(hour):
     """Return a time-appropriate greeting word for the given hour (0-23)."""
     if 5 <= hour < 12:
